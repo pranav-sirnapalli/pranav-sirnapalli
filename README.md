@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Sirnapalli</h1>
 <h3 align="center">A passionate backend developer currently working with Python and Java</h3>
 
-- 🔭 I’m currently working on [Analysis of clickbait and non-clickbait articles using ML models](https://drive.google.com/drive/folders/1_h64iaxa7zHbYxYyYKlSyEiw47S7lzji)
+- 🔭 I’m currently working as a software engineer at Celstream technologies
 
-- 🌱 I’m currently learning **Go Programming, building microservices**
+- 🌱 I’m currently learning **ReactJSX and javascript**
 
 - 💬 Ask me about **Python, Java and Linux**
 
