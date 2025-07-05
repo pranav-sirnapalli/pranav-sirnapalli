@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Sirnapalli</h1>
 <h3 align="center">A passionate backend developer currently working with Python and Java</h3>
 
-- 🔭 I’m currently working as a software engineer at Celstream technologies
+- 🔭 I’m currently working as a software engineer at Philips Healthcare
 
-- 🌱 I’m currently learning **ReactJSX and javascript**
+- 🌱 I’m currently learning **Low-level system design and C++**
 
 - 💬 Ask me about **Python, Java and Linux**
 
